@@ -6,3 +6,4 @@
 |2023/2/10|[13. Roman to Integer](https://github.com/LoisChen68/leetcode-record/blob/main/13.%20Roman%20to%20Integer.js)|O(n)| |
 |2023/2/10|[2. Add Two Numbers.js](https://github.com/LoisChen68/leetcode-record/blob/main/2.%20Add%20Two%20Numbers.js)|O(n^2)| |
 |2023/2/11|[217. Contains Duplicate](https://github.com/LoisChen68/leetcode-record/tree/main/217.%20Contains%20Duplicate)|O(n^2), O(nlogn), O(n)| |
+|2023/2/13|[20. Valid Parentheses](https://github.com/LoisChen68/leetcode-record/blob/main/20.%20Valid%20Parentheses.js)|O(n)| |
